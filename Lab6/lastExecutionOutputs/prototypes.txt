@@ -1,0 +1,10 @@
+CLASS0:actual+1.0 got+1.0 here+1.0 littl+1.0 name+1.0 
+CLASS1:great+1.0 mail+1.0 may+1.0 pleas+1.0 thank+1.0 
+CLASS2:again+1.0 alway+1.0 anyth+1.0 becaus+1.0 call+1.0 caus+1.0 come+1.0 doesn+1.0 ever+1.0 exampl+1.0 first+1.0 give+1.0 includ+1.0 let+1.0 noth+1.0 origin+1.0 place+1.0 state+1.0 take+1.0 thank+1.0 univers+1.0 
+CLASS3:anyon+1.0 didn+1.0 fact+1.0 it+1.0 kind+1.0 line+1.0 noth+1.0 two+1.0 ve+1.0 
+CLASS4:help+1.0 mail+1.0 need+1.0 pleas+1.0 program+1.0 thank+1.0 
+CLASS5:against+1.0 allow+1.0 anyth+1.0 ask+1.0 call+1.0 caus+1.0 cs+1.0 ever+1.0 fact+1.0 general+1.0 it+1.0 mean+1.0 most+1.0 must+1.0 number+1.0 question+1.0 seem+1.0 seen+1.0 still+1.0 suggest+1.0 system+1.0 ve+1.0 year+1.0 
+CLASS6:back+1.0 call+1.0 david+1.0 long+1.0 mayb+1.0 off+1.0 
+CLASS7:abov+1.0 actual+1.0 again+1.0 allow+1.0 anyth+1.0 believ+1.0 certain+1.0 follow+1.0 give+1.0 howev+1.0 includ+1.0 isn+1.0 last+1.0 let+1.0 long+1.0 may+1.0 note+1.0 over+1.0 own+1.0 pleas+1.0 possibl+1.0 post+1.0 quit+1.0 read+1.0 second+1.0 state+1.0 take+1.0 too+1.0 veri+1.0 whi+1.0 
+CLASS8:actual+1.0 allow+1.0 anyth+1.0 believ+1.0 care+1.0 done+1.0 exist+1.0 file+1.0 first+1.0 give+1.0 god+1.0 keep+1.0 life+1.0 littl+1.0 might+1.0 old+1.0 possibl+1.0 quit+1.0 right+1.0 set+1.0 state+1.0 system+1.0 those+1.0 whi+1.0 world+1.0 
+CLASS9:anyon+1.0 cours+1.0 enough+1.0 help+1.0 pleas+1.0 program+1.0 realli+1.0 thank+1.0 two+1.0 under+1.0 veri+1.0 window+1.0 
